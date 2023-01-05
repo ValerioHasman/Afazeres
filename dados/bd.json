@@ -1,0 +1,16 @@
+{
+  "afazeres": [
+    {
+      "id": 78590113501,
+      "titulo": "Lavar o carro",
+      "tempo": "120",
+      "feito": true
+    },
+    {
+      "id": 3888984398,
+      "titulo": "Caminhar",
+      "tempo": "60",
+      "feito": false
+    }
+  ]
+}

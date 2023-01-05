@@ -1,0 +1,11 @@
+.app {
+  background-color: rgb(56, 3, 3);
+}
+
+button[type="submit"]{
+  cursor: pointer;
+}
+
+.caixa {
+  max-width: 540px !important;
+}
